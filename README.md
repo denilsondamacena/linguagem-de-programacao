@@ -1,4 +1,4 @@
-## Exercícios de Algoritmos
+## Exercícios de Java
 
 ### Lote I
 
