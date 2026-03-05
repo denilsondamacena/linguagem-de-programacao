@@ -1,6 +1,6 @@
 /*
 Objetivo                    : Desenvolva um algoritmo que receba um valor numérico real, verifique e mostre se esse número é positivo.
-Programador                 : Denilson Damacena
+Programador                 : Ricardo Satoshi
 Data de Desenvolvimento     : 19/02/2026
 */
 

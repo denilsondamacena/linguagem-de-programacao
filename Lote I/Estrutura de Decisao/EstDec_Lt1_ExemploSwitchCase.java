@@ -6,7 +6,7 @@ Objetivo                    : Receba o código correspondente ao cargo de um fun
                                 3        Caixa             20%
                                 4        Gerente           10%
                                 outros   "Não há cargo"   -----
-Programador                 : Denilson Damacena
+Programador                 : Ricardo Satoshi
 Data de Desenvolvimento     : 26/02/2026
 */
 

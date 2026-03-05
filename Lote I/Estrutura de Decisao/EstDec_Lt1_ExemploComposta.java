@@ -1,6 +1,6 @@
 /*
 Objetivo                    : Desenvolva um algoritmo que receba três valores numéricos inteiros, mostre a soma desses três números, verifique e mostre se a soma é maior que 100.
-Programador                 : Denilson Damacena
+Programador                 : Ricardo Satoshi
 Data de Desenvolvimento     : 19/02/2026
 */
 

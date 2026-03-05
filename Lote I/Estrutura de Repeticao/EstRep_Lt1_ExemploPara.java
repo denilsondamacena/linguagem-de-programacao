@@ -1,6 +1,6 @@
 /*
 Objetivo                    : Quadrado dos números entre 10 e 30.
-Programador                 : Denilson Damacena
+Programador                 : Ricardo Satoshi
 Data de Desenvolvimento     : 19/02/2026
 */
 

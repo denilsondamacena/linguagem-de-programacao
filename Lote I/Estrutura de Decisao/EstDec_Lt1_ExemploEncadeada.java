@@ -1,6 +1,6 @@
 /*
 Objetivo                    : Desenvolva um algoritmo que receba quatro notas bimestrais, calcula e mostra a média aritmética dessas quatro notas, bem como, se o aluno foi aprovado (média >= 7), reprovado (média < 3) ou em exame (média >= 3 e média <7).
-Programador                 : Denilson Damacena
+Programador                 : Ricardo Satoshi
 Data de Desenvolvimento     : 19/02/2026
 */
 
