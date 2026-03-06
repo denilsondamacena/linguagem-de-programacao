@@ -1,8 +1,8 @@
 /*
-Programador     : Ricardo Satoshi
-Data            : 05/03/2026
-Objetivo        : Calcula o salário a receber a partir do salário bruto e desconto
-                  Exemplo de Procedimento
+Programador                  : Ricardo Satoshi
+Data De Desenvolvimento      : 05/03/2026
+Objetivo                     : Calcula o salário a receber a partir do salário bruto e desconto
+                             Exemplo de Procedimento
 
 */
 import javax.swing.JOptionPane;

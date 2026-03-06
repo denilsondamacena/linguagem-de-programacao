@@ -7,7 +7,7 @@ Data de Desenvolvimento     : 19/02/2026
 
 import javax.swing.JOptionPane;
 
-public class EstDec_Lt1_24_OrdenarQuatroValores
+public class EstDec_Lt1_24_DivisivelPor2e3
 {
     public static void main(String args[])
     {
