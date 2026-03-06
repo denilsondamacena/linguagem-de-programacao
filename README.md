@@ -33,8 +33,8 @@
 > Exercício 20 - Equação do Segundo Grau
 > Exercício 21 - Média
 > Exercício 22 - Ordem Crescente
-> Exercício 23 - Divisível por 2 e 3
-> Exercício 24 - Ordenar Quatro Valores
+> Exercício 23 - Ordenar Quatro Valores
+> Exercício 24 - Divisível por 2 e 3
 > Exercício 25 - Cálculo de Duração
 > Exercício 26 - Maior múltiplo do menor
 > Exercício 27 - Cálculo de Velocidade Média
