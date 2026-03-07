@@ -1,0 +1,58 @@
+/*
+Objetivo                    : Receba 2 números inteiros. Verifique e mostre todos os números primos existentes entre eles.
+Programador                 : Denilson Damacena
+Data de Desenvolvimento     : 06/03/2026
+*/
+
+
+import javax.swing.JOptionPane;
+
+public class ModFunc_Lt2_40_NumerosPrimos
+{
+    public static void main(String args[])
+    {
+        int aux;
+        boolean primo;
+        
+        int valor1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro valor:"));
+        int valor2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo valor: "));
+        
+        if (valor1 > valor2)
+        {
+            aux = valor1;
+            valor1 = valor2;
+            valor2 = aux;
+        }
+
+        for (int cont = valor1; cont <= valor2; cont++)
+        {
+            if (FuncPrimo(cont))
+            {
+                System.out.println(cont + " é primo");
+            }
+        }
+    }
+
+    static boolean FuncPrimo(int cont)
+    {
+        boolean primo;
+
+        if (cont < 2)
+        {
+            return false;
+        }
+
+        primo = true;
+
+        for (int contPrimo = 2; contPrimo <= Math.sqrt(cont); contPrimo++)
+        {
+            if (cont % contPrimo == 0)
+            {
+                primo = false;
+                break;
+            }
+        }
+
+        return primo;
+    }
+}
