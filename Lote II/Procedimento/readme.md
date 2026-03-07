@@ -28,10 +28,10 @@
 ### Exercício 22 - Ordem Crescente (com Procedimento)
 > Receba 2 valores inteiros e diferentes. Mostre seus valores em ordem crescente.
 
-### Exercício 23 - Divisível por 2 e 3 (com Procedimento)
+### Exercício 23 - Ordenar Quatro Valores (com Procedimento)
 > Receba 3 valores obrigatoriamente em ordem crescente e um 4º valor não necessariamente em ordem. Mostre os 4 números em ordem crescente.
 
-### Exercício 24 - Ordenar Quatro Valores (com Procedimento)
+### Exercício 24 - Divisível por 2 e 3 (com Procedimento)
 > Receba um valor inteiro. Verifique e mostre se é divisível por 2 e 3.
 
 ### Exercício 25 - Cálculo de Duração (com Procedimento)
