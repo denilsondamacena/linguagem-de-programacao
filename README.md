@@ -109,3 +109,13 @@
 > Exercício 11 – Matriz [8][8] em Caracol
 > Exercício 12 – Soma de Peças em Tabuleiro de Xadrez
 > ```
+
+### Extras
+> ```
+> Recursiva Série I
+> Recursiva Série II
+> Recursiva Série III
+> Recursiva Série IV
+> Recursiva Série V
+> Extra – Caixa Eletrônico
+> ```
