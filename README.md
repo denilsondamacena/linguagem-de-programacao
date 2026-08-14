@@ -2,7 +2,7 @@
   <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png"
        alt="Java Logo"
        width="200"
-       height="300">
+       height="150">
 </p>
 
 
